@@ -17,46 +17,46 @@
 
 - 黑白模式
 
-  - [原理](bem.md)   
-  - [内建黑白变量](bem.md)   
-  - [自定义](bem.md)   
+  - [原理](color-mode.md)   
+  - [内建黑白变量](buildin-color-mode-variable.md)   
+  - [自定义](custom-color-mode-variable.md)   
+
 - 样式类
 
-  - [文案](bem.md)   
-  - [文字](bem.md)   
-  - [对齐](bem.md)   
-  - [间距](bem.md)   
-  - [边框](bem.md)   
-  - [背景](bem.md)   
-  - [海拔](bem.md)   
-  - [阴影](bem.md)   
-  - [字体](bem.md)   
-  - [尺寸](bem.md)     
+  - [文案](typography.md)   
+  - [文字](text.md)   
+  - [对齐](align.md)   
+  - [间距](space.md)   
+  - [边框](border.md)   
+  - [背景](border.md)   
+  - [海拔](border.md)   
+  - [阴影](border.md)   
+  - [字体](border.md)   
+  - [尺寸](border.md)     
 
 - 混合
 
-  - [断点](bem.md)
-  - [颜色解析](bem.md)
-  - [css变量](bem.md)
-  - [栅格](bem.md)
-  - [分组](bem.md)
-  - [国际化](bem.md)
-  - [主题](bem.md)
+  - [断点](mixin-breakpoint.md)
+  - [颜色解析](mixin-color-parser.md)
+  - [css变量](mixin-css-variable.md)
+  - [栅格](mixin-grid.md)
+  - [分组](mixin-group.md)
+  - [国际化](mixin-localeable.md)
+  - [主题](mixin-theme.md)
 
 - 国际化
 
-  - [国际化](bem.md)
+  - [国际化](locale.md)
 
 - typescript支持
 
-  - [typescript支持](bem.md)
+  - [typescript支持](ts.md)
 
 - 图标
-  - [图标](bem.md)
+  - [图标](icon.md)
 
 - 断点
-  - [css 断点](bem.md)
-  - [js 断点](bem.md)
+  - [css 断点](css-breakpoint.md)
+  - [js 断点](js-breakpoint.md)
 
 - 过渡及动画
-  - [淡入淡出](bem.md)

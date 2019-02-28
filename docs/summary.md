@@ -1,1 +1,1 @@
- `vua` 是`ant design` 的`vue`版实现，结合了 `Element`、 `Ant Design`、 `Vuetify`、 `Bootstrap` 库的特点，设计目标是作为一个UI框架而不仅仅是UI组件库， 提供前端UI设计的基础解决方案， 如：*主题色*、*明暗模式*、*国际化*、*css命名冲突* 以及 一些常用组件解决方案 （分组，数据迭代， 实现了ant design 绝大部分组件，目前提供了少量业务型组件。
+ `vua` 是`ant design` 的`vue`版实现，结合了 `Element`、 `Ant Design`、 `Vuetify`、 `Bootstrap` 库的特点，设计目标是作为一个UI框架而不仅仅是UI组件库， 提供前端UI设计的基础解决方案， 如：*主题色*、*明暗模式*、*国际化*、*css命名冲突* 、*类型支持*以及 一些常用组件解决方案 （分组，数据迭代， 实现了ant design 绝大部分组件，目前提供了少量业务型组件。
